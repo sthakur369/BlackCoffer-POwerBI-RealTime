@@ -1,4 +1,8 @@
 # BlackCoffer-POwerBI-RealTime
+
+To access the Google SPreadsheet data:
+https://docs.google.com/spreadsheets/d/1NApONFPYcJQK7hBESA7bVS7Y6FzcIl4owZuiXEX6Kfw/edit?usp=sharing
+
 To access the dashboard:
 https://app.powerbi.com/links/jDWA2_p-Q3?ctid=6bab7765-c387-4d0d-9be7-7f5679251594&pbi_source=linkShare&bookmarkGuid=94794c1f-e1b1-4928-8229-78c9041f43b7
 
